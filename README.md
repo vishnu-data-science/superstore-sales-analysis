@@ -40,7 +40,7 @@ insights using Python and Power BI.
 
 
 ## 🔍 Key Insights
-- (Yahan apne 3-4 main findings likho, jaise: "Furniture category has highest sales but lowest profit margin")
+
 
 ## ✅ Conclusion
-(Yahan short summary likho ki analysis se overall kya pata chala aur business ke liye kya recommendation hai)
+
