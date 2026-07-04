@@ -39,7 +39,7 @@ insights using Python and Power BI.
 
 
 
-##📊 Key Insights
+📊 Key Insights
 
 - Technology was the highest-performing category in terms of sales, making it the primary revenue driver.
 - The West Region generated the highest overall profit, indicating strong regional performance.
@@ -51,6 +51,6 @@ insights using Python and Power BI.
 - The Sales vs Profit analysis revealed that higher sales do not always lead to higher profit, emphasizing the importance of profit margin analysis.
 
 
-##✅ Conclusion
+✅ Conclusion
 
 This project demonstrates how SQL and Power BI can transform raw sales data into meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, profitability, customer behavior, product performance, and regional trends through dynamic KPIs and visualizations. The analysis supports data-driven decision-making by helping businesses identify growth opportunities, optimize product strategies, improve customer retention, and enhance overall profitability. It also showcases practical skills in SQL, data analysis, DAX, dashboard development, and business intelligence.
