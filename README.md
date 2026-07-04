@@ -39,29 +39,18 @@ insights using Python and Power BI.
 
 
 
-## 🔍 Key Insights
-- 🏆 *West region* generates the highest sales (725.46K) and profit 
-  (108.42K), while *South region* has the lowest sales (391.72K)
-- 🪑 *Furniture* has the highest sales but the lowest profit margin, 
-  while *Office Supplies* delivers the best profit margin (~24%)
-- ⚠️ *203 products* are currently sold at a loss, indicating pricing 
-  or discount issues on specific items
-- 👥 *Consumer segment* drives 50% of total sales, followed by 
-  Corporate (31%) and Home Office (19%)
-- 🚚 *Standard Class* shipping generates the most profit, while 
-  Same Day shipping contributes the least
-- 📍 *California* is the top-performing state, and the West region 
-  covers 11 states and 169 cities
-- 📅 Sales peak in *December*, showing strong year-end/holiday demand, 
-  with 2018 being the best-performing year overall
+##📊 Key Insights
 
-## ✅ Conclusion
-The analysis shows that while overall sales are strong—especially in 
-the West region and Consumer segment—profitability is uneven across 
-categories. Furniture generates high revenue but weak margins, while 
-Office Supplies is the most profitable category relative to its sales. 
-With 203 products currently operating at a loss, the business should 
-review pricing and discount strategies for underperforming products. 
-Strengthening Standard Class shipping operations and preparing 
-inventory ahead of the December sales peak could further improve 
-overall profitability.
+- Technology was the highest-performing category in terms of sales, making it the primary revenue driver.
+- The West Region generated the highest overall profit, indicating strong regional performance.
+- The Consumer segment contributed the largest share of total sales compared to other customer segments.
+- Standard Class was the most profitable shipping mode due to its high order volume and cost efficiency.
+- The Top 10 Customers contributed a significant portion of total revenue, highlighting the importance of customer retention.
+- Several products generated negative profit, indicating the need to review pricing, discounts, or operational costs.
+- Sales and profit performance varied across different states and cities, helping identify both high-performing and underperforming markets.
+- The Sales vs Profit analysis revealed that higher sales do not always lead to higher profit, emphasizing the importance of profit margin analysis.
+
+
+##✅ Conclusion
+
+This project demonstrates how SQL and Power BI can transform raw sales data into meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, profitability, customer behavior, product performance, and regional trends through dynamic KPIs and visualizations. The analysis supports data-driven decision-making by helping businesses identify growth opportunities, optimize product strategies, improve customer retention, and enhance overall profitability. It also showcases practical skills in SQL, data analysis, DAX, dashboard development, and business intelligence.
