@@ -1,56 +1,121 @@
-# 📊 Superstore Sales Analysis
+# 📊 Retail Sales Analysis
 
-Data Analysis of Superstore sales dataset — sales, profit and customer 
-insights using Python and Power BI.
+A complete Retail Sales Analysis project using **Python, Pandas, and Matplotlib** to analyze customer purchasing behavior, sales performance, and business trends through data visualization and a professional dashboard.
+
+---
 
 ## 🎯 Objective
-- Identify top-selling and most profitable product categories
-- Analyze regional and segment-wise performance
-- Find loss-making products/regions
-- Discover seasonal sales trends
+
+- Analyze overall retail sales performance
+- Identify the highest revenue-generating product category
+- Understand customer demographics by age and gender
+- Analyze monthly and daily revenue trends
+- Compare quantity sold across product categories
+- Create a business dashboard for decision-making
+
+---
 
 ## 🛠️ Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
+
+- Python
+- Pandas
+- Matplotlib
 - Jupyter Notebook
-- Power BI
+
+---
 
 ## 📁 Project Files
-- `superstore.csv` — Raw dataset
-- `superstore_cleaned.csv` — Cleaned dataset
-- `superstore (1).ipynb` — Data cleaning & analysis notebook
-- `Superstore.pbix` — Power BI dashboard file
 
-## 📈 Dashboard Preview
+- `retail_sales_analysis.ipynb` — Complete data cleaning, analysis, and dashboard creation
+- `retail_sales_dashboard.png` — Final dashboard
+- `README.md` — Project documentation
 
-### Executive Dashboard
+> **Note:** The original dataset is not included in this repository.
 
-![Executive Dashboard](Retail%20Sales%20&%20profitability%20Analysis%20Executive%20Dashboard.jpeg)
+---
 
+# 📈 Dashboard Preview
 
+<p align="center">
+  <img src="retail_sales_dashboard.png" alt="Retail Sales Dashboard" width="900">
+</p>
 
-### Customer & Product Analysis
+---
 
-![Customer and Product Analysis](Customer%20and%20product%20analysis.jpeg)
+# 📊 Dashboard Includes
 
+The dashboard presents six business visualizations:
 
-### Geographic & Time Analysis
+- 📌 Revenue Share by Product Category
+- 📌 Revenue by Gender
+- 📌 Revenue by Customer Age Group
+- 📌 Monthly Revenue Trend
+- 📌 Revenue by Day of Week
+- 📌 Quantity Sold by Product Category
 
-![Geographic and Time Analysis](Geographic%20and%20time%20Analysis.jpeg)
+---
 
+# 📊 Key Insights
 
+- Electronics generated the highest revenue among all product categories.
+- Female customers contributed slightly more revenue than male customers.
+- Customers aged **46+** generated the highest overall revenue.
+- Revenue fluctuated throughout the year, with **May** recording the highest sales and **September** the lowest.
+- Saturday generated the highest revenue, indicating stronger weekend purchasing behavior.
+- Clothing recorded the highest quantity sold, while Electronics generated the highest revenue, showing that higher sales volume does not always mean higher revenue.
+- The dashboard provides a quick overview of customer behavior, product performance, and sales trends for business decision-making.
 
-📊 Key Insights
+---
 
-- Technology was the highest-performing category in terms of sales, making it the primary revenue driver.
-- The West Region generated the highest overall profit, indicating strong regional performance.
-- The Consumer segment contributed the largest share of total sales compared to other customer segments.
-- Standard Class was the most profitable shipping mode due to its high order volume and cost efficiency.
-- The Top 10 Customers contributed a significant portion of total revenue, highlighting the importance of customer retention.
-- Several products generated negative profit, indicating the need to review pricing, discounts, or operational costs.
-- Sales and profit performance varied across different states and cities, helping identify both high-performing and underperforming markets.
-- The Sales vs Profit analysis revealed that higher sales do not always lead to higher profit, emphasizing the importance of profit margin analysis.
+# ✅ Conclusion
 
+This project demonstrates how Python can transform raw retail sales data into meaningful business insights through data cleaning, exploratory data analysis (EDA), feature engineering, and visualization. The final dashboard enables businesses to monitor sales performance, understand customer behavior, identify high-performing product categories, and analyze seasonal trends. It showcases practical skills in Python, Pandas, Matplotlib, business analytics, and dashboard development.
 
-✅ Conclusion
+---
 
-This project demonstrates how SQL and Power BI can transform raw sales data into meaningful business insights. The interactive dashboard provides a comprehensive view of sales performance, profitability, customer behavior, product performance, and regional trends through dynamic KPIs and visualizations. The analysis supports data-driven decision-making by helping businesses identify growth opportunities, optimize product strategies, improve customer retention, and enhance overall profitability. It also showcases practical skills in SQL, data analysis, DAX, dashboard development, and business intelligence.
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Business Analytics
+- Data Visualization
+- Dashboard Design
+- Python Programming
+- Pandas
+- Matplotlib
+
+---
+
+## 📌 Future Improvements
+
+- Interactive Power BI Dashboard
+- SQL Integration
+- Sales Forecasting
+- Customer Segmentation
+- Streamlit Web Application
+- Profit Analysis Dashboard
+
+---
+
+## 👨‍💻 Author
+
+**Vishnu**
+
+Aspiring Data Analyst
+
+### Skills
+
+- Python
+- SQL
+- Power BI
+- Excel
+- Pandas
+- Matplotlib
+
+GitHub:
+https://github.com/vishnu-data-science
+
+---
+
+⭐ **If you found this project useful, consider giving it a Star!**
